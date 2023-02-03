@@ -16,7 +16,7 @@ If you're curious about what kind of project I did, please click `Projects` 🥳
 - 🗓️ 참여 기간: 2022-04-11 ~ 2022-10-07
 
 | 프로젝트  | 기간 | 학습한 것 | 함께한 팀원 | 리뷰어 |
-|:-:|:-:|:-:|:-:|:-:|
+|----|----|----|----|-----|
 |  [숫자 야구](https://github.com/seohyeon2/ios-number-baseball) |	2022.04.12 ~ 2022.04.15 | git 이해, Optional 처리 |	[일림](https://github.com/iilim) | [도니](https://github.com/westeastyear) |
 |  [묵찌빠 게임](https://github.com/seohyeon2/ios-rock-paper-scissors) |	2022.04.18 ~ 2022.04.22 |	순환함수(재귀함수)와 반복문, 코딩 컨벤션	|   [케이](https://github.com/KayAhn0126) | [우롱차](https://github.com/dnwhd0112) |
 |  [쥬스 메이커](https://github.com/seohyeon2/ios-juice-maker)	| 2022.04.25 ~ 2022.05.13	|  Swift API Design Guide, 캡슐/은닉화, 오토레이아웃	| [민쏜](https://github.com/minsson) | [쿠마](https://github.com/leejun6694)
@@ -41,7 +41,7 @@ If you're curious about what kind of project I did, please click `Projects` 🥳
 <br>
 
 ## 🍞 bbangApp (개인 앱)
-- 🗓️ 제작 기간: 2023.02.01
+- 🗓️ 제작 기간: 2023.02.01 ~ 현재
 - [🔗 Github Link](https://github.com/seohyeon2/bbangApp)
 
 <img src="https://user-images.githubusercontent.com/50102522/216670546-896cd53e-c385-465e-8443-c257c21a8d30.gif" width="200" height="400"/>
